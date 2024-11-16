@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Flavius-Adrian Petruca!
 
-I'm a passionate **Software Development Engineer** at **Adobe**, based in Bucharest, Romania. With a strong background in **full-stack development** and a keen interest in **scalable SaaS solutions**, I specialize in crafting efficient, user-centric applications. 
+I'm a passionate **Software Development Engineer** at **Adobe**`. With a strong background in **full-stack development** and a keen interest in **scalable SaaS solutions**, I specialize in crafting efficient, user-centric applications. 
 
 ## 🚀 What I Do
 - **Frontend Development**: Building responsive and dynamic UIs using **Next.js**, **TypeScript**, **TailwindCSS**, and modern frameworks like **ShadCN**.
