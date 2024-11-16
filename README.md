@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Flavius-Adrian Petruca!
 
-<!--
-**flaviuspetruca/flaviuspetruca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Development Engineer** at **Adobe**, based in Bucharest, Romania. With a strong background in **full-stack development** and a keen interest in **scalable SaaS solutions**, I specialize in crafting efficient, user-centric applications. 
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- **Frontend Development**: Building responsive and dynamic UIs using **Next.js**, **TypeScript**, **TailwindCSS**, and modern frameworks like **ShadCN**.
+- **Backend Expertise**: Developing robust APIs with **Python** and **FastAPI**, integrating databases like **PostgreSQL** using **Prisma**.
+- **DevOps & Monitoring**: Setting up and managing Kubernetes clusters, utilizing tools like **Grafana** and **Prometheus** for observability.
+- **AI Integration**: Enhancing platforms with **AI-driven services**, ensuring intelligent automation and data validation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages**: TypeScript, Python, JavaScript
+- **Frameworks & Libraries**: Next.js, FastAPI, Prisma
+- **Databases**: PostgreSQL, MySQL
+- **DevOps**: Kubernetes, Minikube, Docker, Jenkinsm, GithubActions
+- **Cloud & Monitoring**: Grafana, Prometheus
+- **Tools**: Git, Obsidian, Stripe (for integrations)
+
+## 🌱 Currently Exploring
+- Optimizing **SaaS architectures** for scale and performance.
+- Building modular **design systems** for reusable UI components.
+- Diving deeper into **NextAuth** and secure user authentication.
+- Further improving my DevOps knowledge
+
+## 🎓 Education
+Graduated **Faculty of Automatic Control and Computer Science**, **University Politehnica of Bucharest**, specializing in **Systems Engineering** and **Automation and Applied Informatics**.
+
+## ✨ Fun Facts
+- I enjoy tackling **challenging coding problems** to improve efficiency.
+- I'm passionate about **clean, maintainable code** and **scalable architecture**.
+- I value privacy-focused, peer-to-peer technology and am inspired by companies like **Holepunch**.
+
+## 📫 Let's Connect!
+- **Email**: [petrucaflavius@gmail.com](mailto:petrucaflavius@gmail.com)
+- **LinkedIn**: [linkedin.com/in/flavius-petruca](https://linkedin.com/in/flavius-petruca)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration opportunities. 😊
