@@ -28,7 +28,6 @@ Graduated **Faculty of Automatic Control and Computer Science**, **University Po
 ## ✨ Fun Facts
 - I enjoy tackling **challenging coding problems** to improve efficiency.
 - I'm passionate about **clean, maintainable code** and **scalable architecture**.
-- I value privacy-focused, peer-to-peer technology and am inspired by companies like **Holepunch**.
 
 ## 📫 Let's Connect!
 - **Email**: [petrucaflavius@gmail.com](mailto:petrucaflavius@gmail.com)
